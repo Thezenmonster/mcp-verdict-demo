@@ -1,0 +1,11 @@
+{
+  "name": "mcp-verdict-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo project showing MCP Verdict Check in CI",
+  "dependencies": {
+    "@modelcontextprotocol/server-github": "^2025.4.8",
+    "exa-mcp-server": "^3.2.0",
+    "mcp-trust-guard": "^0.2.3"
+  }
+}

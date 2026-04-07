@@ -1,0 +1,17 @@
+name: MCP Security Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  verdict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check MCP package verdicts
+        uses: Thezenmonster/mcp-verdict-action@v1
+        with:
+          fail-on: "block"
