@@ -36,3 +36,4 @@ No API key needed. Free.
 - [MCP Verdict Action](https://github.com/Thezenmonster/mcp-verdict-action)
 - [AgentScore](https://agentscores.xyz)
 - [API Docs](https://agentscores.xyz/docs)
+# Capability governance test - 2026-04-13T09:53:36Z
