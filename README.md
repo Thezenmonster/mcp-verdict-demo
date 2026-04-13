@@ -37,3 +37,4 @@ No API key needed. Free.
 - [AgentScore](https://agentscores.xyz)
 - [API Docs](https://agentscores.xyz/docs)
 # Capability governance test - 2026-04-13T09:53:36Z
+# Org governance test - 2026-04-13T17:32:21Z
